@@ -1,2 +1,2 @@
 # arti402
-A place for learning and building with AI and data science. Here I collect projects, experiments, and ideas as I grow my skills in Deep learning and data-driven problem solving
+This repository contains my labs and assignments for the Machine Learning course, covering key concepts and practical implementations.
